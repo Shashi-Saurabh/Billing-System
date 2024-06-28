@@ -1,0 +1,4 @@
+ 1 Pencil 5 10
+ 2 Eraser 3 0
+ 3 Pen 10 0
+ 4 Box 50 5
